@@ -92,8 +92,7 @@ justify-content: space-between;
     align-items: center;
 }
 
-.mainContent__leftSide-btnList .startNow{
-
+.mainContent__leftSide-btnList .startNow {
     width: 140px;
     height: 51px;
     display: flex;
@@ -105,7 +104,6 @@ justify-content: space-between;
     border-radius: 56px;
     background: rgb(242, 88, 34);
     color: rgb(255, 255, 255);
-    
 }
 
 .mainContent__leftSide-btnList .watchVideo {
